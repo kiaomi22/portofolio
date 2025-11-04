@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Verdana, sans-serif; 
+    line-height: 1.6;
+    background-color: #f7faff; 
+    color: #333;
+}
+
+.header {
+    background-color: #ffffff;
+    border-bottom: 1px solid #eee;
+    padding: 15px 0;
+    position: fixed; 
+    width: 100%;
+    top: 0;
+    z-index: 1000;
+}
+
+.container-nav {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+    overflow: hidden; 
+}
+
+.logo {
+    float: left;
+    font-size: 22px;
+    font-weight: bold;
+    color: #222;
+    text-decoration: none;
+    padding-top: 5px;
+}
+
