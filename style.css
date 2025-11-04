@@ -76,3 +76,43 @@ section {
     overflow: hidden;
     padding-bottom: 80px;
 }
+.hero-text {
+    float: left;
+    width: 55%;
+    padding-right: 40px;
+}
+.hero-intro {
+    color: #0077b6; 
+    font-weight: bold;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+.hero-text h1 {
+    font-size: 48px;
+    color: #222;
+    margin-bottom: 20px;
+}
+.hero-deskripsi {
+    font-size: 18px;
+    color: #666;
+    margin-bottom: 30px;
+}
+
+.btn {
+    background-color: #89cff0; 
+    color: #ffffff;
+    padding: 14px 30px;
+    border: none;
+    border-radius: 30px; 
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 10px rgba(137, 207, 240, 0.3);
+}
+.btn:hover {
+    background-color: #70b7e2; 
+    box-shadow: 0 5px 15px rgba(137, 207, 240, 0.5);
+    transform: translateY(-2px);
+}
+
