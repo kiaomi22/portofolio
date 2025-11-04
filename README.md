@@ -77,3 +77,7 @@ Tahap akhir adalah mempublikasikan proyek ke GitHub agar dapat diakses secara on
 git remote add origin https://github.com/\[username\]/\[nama-repositori\].git  
 Lalu, unggah seluruh commit dari branch main: git push \-u origin main  
 <img width="766" height="317" alt="image" src="https://github.com/user-attachments/assets/8eb4c6c9-3289-41c6-ac7d-416bc4fa1cc4" />
+
+# Visualisasi Riwayat Commit (git log)
+Berikut adalah bukti visual dari seluruh alur kerja yang dijalankan, diambil dari output<img width="755" height="164" alt="image" src="https://github.com/user-attachments/assets/392d6001-32b4-4777-92ea-756a5f83c541" />
+
