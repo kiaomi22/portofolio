@@ -81,3 +81,10 @@ Lalu, unggah seluruh commit dari branch main: git push \-u origin main
 # Visualisasi Riwayat Commit (git log)
 Berikut adalah bukti visual dari seluruh alur kerja yang dijalankan, diambil dari output<img width="755" height="164" alt="image" src="https://github.com/user-attachments/assets/392d6001-32b4-4777-92ea-756a5f83c541" />
 
+# Tampilan Website
+<img width="1902" height="932" alt="image" src="https://github.com/user-attachments/assets/d20631fc-94ca-4d6d-96ae-f442e10e8171" />
+<img width="1903" height="927" alt="image" src="https://github.com/user-attachments/assets/0f032643-5303-42fe-a2b8-2afef93c67a2" />
+<img width="1903" height="926" alt="image" src="https://github.com/user-attachments/assets/349451a9-9dca-478d-8093-0786435a5699" />
+<img width="1902" height="928" alt="image" src="https://github.com/user-attachments/assets/87a22f99-6107-4f4b-811b-3b1e762a11b5" />
+
+
